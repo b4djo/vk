@@ -5,7 +5,8 @@ class VK {
     private $url = "https://api.vk.com/method/";
 
     /**
-     * Конструктор
+     * VK constructor.
+     * @param $access_token
      */
     public function __construct($access_token) {
 
@@ -13,9 +14,9 @@ class VK {
     }
 
     /**
-     * Делает запрос к Api VK
      * @param $method
-     * @param $params
+     * @param null $params
+     * @return bool|mixed
      */
     public function method($method, $params = null) {
 

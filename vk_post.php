@@ -4,7 +4,7 @@ include "vk.php";
 $access_token = "";
 $user_id = "";
 
-//Инициализируем класс
+
 $vk = new Vk($access_token);
 
 $params = array(
