@@ -1,6 +1,6 @@
 <?php
 
-namespace app;
+namespace b4djo\app;
 
 /**
  * Class App

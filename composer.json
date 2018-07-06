@@ -1,0 +1,14 @@
+{
+    "name": "b4djo/vk",
+    "description": "Work for VK API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Robert",
+            "email": "fatkhullin.robert@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
