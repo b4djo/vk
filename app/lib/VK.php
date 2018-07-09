@@ -1,10 +1,10 @@
 <?php
 
-namespace b4djo\app\lib;
+namespace b4djo\vk\app\lib;
 
 /**
  * Class VK
- * @package app\lib
+ * @package b4djo\vk\app\lib
  */
 class VK
 {

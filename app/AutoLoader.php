@@ -1,7 +1,7 @@
 <?php
 
 
-namespace b4djo\app;
+namespace b4djo\vk\app;
 
 /**
  * Class AutoLoader
